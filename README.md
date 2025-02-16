@@ -62,5 +62,5 @@ ____
 
 ____
 
-![](https://www.google.com/search?client=ubuntu-sn&hs=gP5&sca_esv=1cdd3e2116a3bced&channel=fs&sxsrf=AHTn8zqD0N66yEjmfw4Fi65Hr_uqUfod0Q:1739717747791&q=%D0%B8%D1%82%D0%BE%D0%B3&udm=2&fbs=ABzOT_C00qMmca6NP6oNBSkAWbHahhle7N5JgRr9GCdnUIT_l3dBM-4uNWA2CgIQtnKBfOhYp-F1fIJylo8sfVXhJF2tq5LQO2TgM6w-cgt21B88lCFAc9Pe0VTtgsf86SPtmVkAw77FRU68I44jXK2QtiA6YS1_PuW-_fgsC-vrOlRLfHDKv3H33sJWZrTh2K7piamH_Ky4gLloetaDHhhbKC_2J8_Atw&sa=X&ved=2ahUKEwjShvfSuciLAxXaHxAIHcBxNWkQtKgLegQIHBAB&biw=1850&bih=968&dpr=1#vhid=cihAEWFp8yGhcM&vssid=mosaic)
+[](https://www.google.com/search?client=ubuntu-sn&hs=gP5&sca_esv=1cdd3e2116a3bced&channel=fs&sxsrf=AHTn8zqD0N66yEjmfw4Fi65Hr_uqUfod0Q:1739717747791&q=%D0%B8%D1%82%D0%BE%D0%B3&udm=2&fbs=ABzOT_C00qMmca6NP6oNBSkAWbHahhle7N5JgRr9GCdnUIT_l3dBM-4uNWA2CgIQtnKBfOhYp-F1fIJylo8sfVXhJF2tq5LQO2TgM6w-cgt21B88lCFAc9Pe0VTtgsf86SPtmVkAw77FRU68I44jXK2QtiA6YS1_PuW-_fgsC-vrOlRLfHDKv3H33sJWZrTh2K7piamH_Ky4gLloetaDHhhbKC_2J8_Atw&sa=X&ved=2ahUKEwjShvfSuciLAxXaHxAIHcBxNWkQtKgLegQIHBAB&biw=1850&bih=968&dpr=1#vhid=cihAEWFp8yGhcM&vssid=mosaic)
 
